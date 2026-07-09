@@ -1,27 +1,21 @@
-# Hi 👋, I'm Dian Febrian Nur Cahyo
-### 🚀 Aspiring Backend & AI/ML Engineer
-
-I am a computer science student actively deeply diving into **Backend Engineering** (focusing on NestJS architecture & best practices) and highly interested in **AI / Machine Learning** implementations.
-
-⚡ **Currently seeking Internship Opportunities in Backend or AI/ML Engineering to contribute and grow in the tech industry.**
-
----
-
-### 💻 About Me
-
-* 🔭 **I'm currently working on:** Building scalable RESTful APIs focusing on **NestJS Architecture** and Clean Code best practices.
-* 🌱 **I'm currently learning:** Software Architectures, Docker containerization, and FastAPI for AI/ML integration.
-* 📫 **How to reach me:** **dianfnc06@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/dfnc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dfnc1" height="30" width="40" /></a>
-<a href="https://instagram.com/dfnc.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfnc.xyz" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/dfnc1">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Dian" alt="Hello! I&#39;m Dian" />
+  </a>
 </p>
 
-### 🛠️ Languages & Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20Backend%20%26%20AI%2FML%20Engineer%20%7C%20Computer%20Science%20Student" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+🔭 &nbsp;I'm currently working on **Building scalable RESTful APIs with NestJS Architecture.**  
+🌱 &nbsp;I'm currently learning **Software Architecture, Docker, and FastAPI for AI/ML integration.**  
+💬 &nbsp;Ask me about **NestJS, FastAPI, TypeScript ,Python, and RESTful API design.**  
+⚡ &nbsp;Fun fact: **I spend 80% of my time thinking about architecture and 20% actually writing the code.**
+
+### 🛠️ Tech Stack
 
 <details>
 <summary><b>🌐 Languages & Core Technologies</b></summary>
@@ -63,6 +57,8 @@ I am a computer science student actively deeply diving into **Backend Engineerin
 
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/></a>
 <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/></a>
+<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
 
 </details>
 
@@ -77,3 +73,40 @@ I am a computer science student actively deeply diving into **Backend Engineerin
 <a href="https://learning.postman.com/docs/introduction/overview/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30"/></a>
 
 </details>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/dfnc.xyz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dianfnc06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=dfnc1&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=dfnc1&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfnc1&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/dfnc1">dfnc1</a></i></p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/dfnc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dfnc1" height="30" width="40" /></a>
+<a href="https://instagram.com/dfnc.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dfnc.xyz" height="30" width="40" /></a>
+</p>
